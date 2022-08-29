@@ -1,11 +1,11 @@
 # SO_LONG
 
-
-
 </center>
 # Description  
  This project is a very small 2D game. It is built to make you work with
 textures, sprites. And some very basic gameplay elements.
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76934648/187231197-897d3243-42b8-44e2-b528-9a0228f65d70.gif)
 
 # How play the game
 To play this game you can use any map of your choice as long follow the following rues:
