@@ -1,8 +1,7 @@
 # SO_LONG
 
-</center>
 # Description  
- This project is a very small 2D game. It is built to make you work with
+This project is a very small 2D game. It is built to make you work with
 textures, sprites. And some very basic gameplay elements.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76934648/187231197-897d3243-42b8-44e2-b528-9a0228f65d70.gif)
@@ -32,7 +31,7 @@ For restart the game press `ESC` or click on the red cross of window.
 If you touch the enemy you loose the game.
 To win the game its necessary pick up all collectible and pass for the exit.
 
-## Running sol_long ##
+## Running so_long ##
 
 ```bash
 # Clone this project
