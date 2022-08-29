@@ -24,7 +24,7 @@ To play this game you can use any map of your choice as long follow the followin
 |     *P*     | Player starting position |
 |     *H*     | Enemy starting position  |
 
-In folder [map_files](map_files) have some examples of maps.
+In folder [maps](maps) have some examples of maps.
 
 # Control of play
 You can use `AWSD` to move `UP`, `DOWN`, `LEFT`, `RIGHT`.  
